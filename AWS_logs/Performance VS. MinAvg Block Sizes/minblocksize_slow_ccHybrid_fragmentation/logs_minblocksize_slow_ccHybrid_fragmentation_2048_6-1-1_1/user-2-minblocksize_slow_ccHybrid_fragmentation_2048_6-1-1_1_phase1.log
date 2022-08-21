@@ -1,0 +1,2 @@
+{"levelname": "DEBUG", "name": "user-2-minblocksize_slow_ccHybrid_fragmentation_2048_6-1-1_1_phase1", "asctime": "2021-05-25 05:26:56,695", "message": "Connecting to servers ['localhost:33300']"}
+{"levelname": "DEBUG", "name": "user-2-minblocksize_slow_ccHybrid_fragmentation_2048_6-1-1_1_phase1", "asctime": "2021-05-25 05:26:57,271", "message": "LIST-COMPLETED", "client_id": "2", "file_list": {"minblocksize_slow_ccHybrid_fragmentation_2048_6-1-1_1": ["0_1-0_1", "0_1"]}, "op_latency_start": 318195.547111726, "op_latency_end": 318196.12250761, "op_latency": 0.5753958839923143}
