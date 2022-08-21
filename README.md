@@ -1,4 +1,4 @@
-# fragmentedARES-public-data
+# fragmentedARES-data
  
 This repository contains all the collected raw data from the experiments of the paper “Fragmented ARES: Dynamic Storage for Large Objects”. 
 The link to the arXiv version of the paper is https://arxiv.org/abs/2201.13292. 
