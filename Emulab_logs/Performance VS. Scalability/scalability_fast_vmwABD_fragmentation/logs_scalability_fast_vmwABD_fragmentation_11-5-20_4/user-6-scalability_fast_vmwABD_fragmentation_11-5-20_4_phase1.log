@@ -1,0 +1,2 @@
+{"levelname": "DEBUG", "name": "user-6-scalability_fast_vmwABD_fragmentation_11-5-20_4_phase1", "asctime": "2021-12-23 15:15:58,282", "message": "Connecting to servers ['localhost:5550']"}
+{"levelname": "DEBUG", "name": "user-6-scalability_fast_vmwABD_fragmentation_11-5-20_4_phase1", "asctime": "2021-12-23 15:15:58,290", "message": "LIST-COMPLETED", "clientID": "6", "file_list": {"scalability_fast_vmwABD_fragmentation_11-5-20_4": ["1_1-1_1", "1_1"]}, "op_latency_start": 297600.645288004, "op_latency_end": 297600.6522072, "op_latency": 0.006919195991940796}
