@@ -1,0 +1,2 @@
+{"levelname": "DEBUG", "name": "user-30-scalability_fast_ARES_vmwABD_7-25-5-0_2_phase1", "asctime": "2022-01-05 15:06:18,657", "message": "Connecting to servers ['localhost:5550']"}
+{"levelname": "DEBUG", "name": "user-30-scalability_fast_ARES_vmwABD_7-25-5-0_2_phase1", "asctime": "2022-01-05 15:06:18,680", "message": "LIST-COMPLETE", "clientID": "30", "op_latency_start": 32668.551509206, "op_latency_end": 32668.572767655, "op_latency": 0.02125844900001539, "file_list": {"null": "30_0", "scalability_fast_ARES_vmwABD_7-25-5-0_2": "1_1"}}
