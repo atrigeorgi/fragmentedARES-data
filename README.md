@@ -7,6 +7,7 @@ The link to the arXiv version of the paper is https://arxiv.org/abs/2201.13292.
 [Folders’ Description](#Folders)  
 [Different types of log files](#DifferentLogs)
 
+<a name="Folders"></a>
 ## Folders’ Description
 
 There are two separate folders, one that contains the results of experiments carried out using the AWS testbed, and the other, the experiments carried out on Emulab testbed, AWS_logs and Emulab_logs, respectively. These two main folders contain subfolders named with the titles of the experimental scenarios in the above paper. 
@@ -26,6 +27,7 @@ Reconfiguring to a random DAP
 Reconfiguring to the same DAP 
 These folders contain subfolders for ARES variants. At the end of each .log filename there is some number, e.g., 11-10-5-1_1. The first four numbers define the number of servers, writers, readers, and reconfigurers, and the last number is the iteration number. 
 
+<a name="DifferentLogs"></a>
 ## Different types of log files
 
 There are .log files starting with ’user’ and .log files starting with ’client’.  
