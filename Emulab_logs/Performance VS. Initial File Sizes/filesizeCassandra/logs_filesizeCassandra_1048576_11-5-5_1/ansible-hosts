@@ -1,0 +1,12 @@
+[controller]
+controller.cassandraExp.Collaborate.emulab.net ansible_user=andria  
+
+[servers]
+server[1:11].cassandraExp.Collaborate.emulab.net ansible_user=andria  
+
+[writers]
+daemon[1:5].cassandraExp.Collaborate.emulab.net ansible_user=andria  
+
+[readers]
+daemon[6:10].cassandraExp.Collaborate.emulab.net ansible_user=andria  
+
